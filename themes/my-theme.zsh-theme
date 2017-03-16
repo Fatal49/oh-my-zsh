@@ -1,0 +1,1 @@
+/Users/Hassani/dotfiles/zsh/my-theme.zsh-theme

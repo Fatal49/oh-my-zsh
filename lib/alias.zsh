@@ -1,0 +1,1 @@
+/Users/Hassani/dotfiles/zsh/alias.zsh
